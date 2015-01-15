@@ -43,6 +43,15 @@ html {
     width: 100%;
 }
 
+.img {
+    position: relative;
+}
+
+.reward {
+    background: #87714f;
+    color: white;
+}
+
 .wanted {
     width: 4em;
     display: block;
