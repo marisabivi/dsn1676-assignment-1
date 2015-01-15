@@ -52,12 +52,21 @@ html {
     color: white;
 }
 
+.center {
+    text-align: center;  
+}
+
 .wanted {
     width: 4em;
     display: block;
     margin: auto;
 }
 
+.panel {
+    border-image: url(../images/border-image.png) 36 36 36 36 stretch stretch;
+    border-width: 36px 36px 36px 36px;
+    
+}
 div {
     margin: 0;
     padding: 0;
