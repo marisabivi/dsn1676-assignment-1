@@ -17,6 +17,10 @@ html {
  box-sizing: inherit;   
 }
 
+.background-color {
+    background-color: #E7E5D9;
+}
+
 .img-flex {
     display: block;
     width: 100%;
